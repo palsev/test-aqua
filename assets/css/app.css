@@ -3,3 +3,7 @@
 .MuiPaper-root{
     background-color: '#000';
 }
+
+.MuiDialog-root{
+    display: none;
+}
